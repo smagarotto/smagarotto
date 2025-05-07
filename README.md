@@ -1,7 +1,7 @@
 ## Hi there 👋
 my name is Stefano Magarotto and I am a student at University of Padua in Italy.
 
-I am currently interested in AI, especially in the medical field, but not only and I am also interested in programming.
+I am currently interested in AI, especially in the medical field.
 
 Have a great day
 Stefano
